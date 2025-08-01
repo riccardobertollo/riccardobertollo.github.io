@@ -1,3 +1,3 @@
 [submodule "bibliography"]
-	path = bibliography
+	path = _data/bibliography
 	url = https://github.com/riccardobertollo/bibliography.git
