@@ -30,14 +30,33 @@ $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
 /* Type scale */
-$type-size-1                : 2.441em;  // ~39.056px
-$type-size-2                : 1.953em;  // ~31.248px
-$type-size-3                : 1.563em;  // ~25.008px
-$type-size-4                : 1.25em;   // ~20px
-$type-size-5                : 1em;      // ~16px
-$type-size-6                : 0.75em;   // ~12px
-$type-size-7                : 0.6875em; // ~11px
-$type-size-8                : 0.625em;  // ~10px
+// $type-size-1                : 2.441em;  // ~39.056px
+// $type-size-2                : 1.953em;  // ~31.248px
+// $type-size-3                : 1.563em;  // ~25.008px
+// $type-size-4                : 1.25em;   // ~20px
+// $type-size-5                : 1em;      // ~16px
+// $type-size-6                : 0.75em;   // ~12px
+// $type-size-7                : 0.6875em; // ~11px
+// $type-size-8                : 0.625em;  // ~10px
+
+// $type-size-1                  : 1.2em !default;  // ~39.056px
+// $type-size-2                  : 1.05em !default;  // ~31.248px
+// $type-size-3                  : 0.95em !default;  // ~25.008px
+// $type-size-4                  : 0.9em !default;   // ~20px
+// $type-size-5                  : 0.85em !default;      // ~16px
+// $type-size-6                  : 0.8em !default;   // ~12px
+// $type-size-7                  : 0.8em !default; // ~11px
+// $type-size-8                  : 0.8em !default;  // ~10px
+
+$type-size-1                  : 1.4em !default;  // ~39.056px
+$type-size-2                  : 1.2em !default;  // ~31.248px
+$type-size-3                  : 1.1em !default;  // ~25.008px
+$type-size-4                  : 1em !default;   // ~20px
+$type-size-5                  : 0.95em !default;      // ~16px
+$type-size-6                  : 0.9em !default;   // ~12px
+$type-size-7                  : 0.85em !default; // ~11px
+$type-size-8                  : 0.8em !default;  // ~10px
+
 
 $global-font-family         : $sans-serif;
 $header-font-family         : $sans-serif;

@@ -1,9 +1,9 @@
-<h1>{{include.title}}</h1>
+<h2>{{include.title}}</h2>
 <div class="publications">
   {% assign publication_list_count = include.list.size %}
   {% for item in include.list %}
     [{{publication_list_count}}]
-    <a style="text-decoration: none;" target= "blank" href="{{item.url}}"> {{item.citation}}</a>
+    <a style="text-decoration: none; color: var(--global-text-color);" target= "blank" href="{{item.url}}"> {{item.citation}}</a>
     <div class="pub-details">
       <a target="blank" href="{{item.url}}"><img alt="HTML" src="https://img.shields.io/badge/-HTML-red?logo=html5&color=555555"></a>
       {% if item.pdf %}
