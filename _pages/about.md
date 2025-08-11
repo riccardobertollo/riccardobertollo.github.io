@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+# title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,6 +8,25 @@ redirect_from:
 ---
 
 # About me
+
+Hi, I am Riccardo, from [Pianezze](https://maps.google.com), Italy!
+I am a **postdoc researcher** in the *Control Systems Technology* section at **Eindhoven University of Technology** (The Netherlands).
+I am interested in **hybrid and nonsmooth dynamical systems**, their application to the modeling and control of mechatronic systems, and the use of Lyapunov techniques to analyze this type of systems.
+
+# News
+
+* **01/04/2025**: The paper *"Hybrid Lyapunov-based feedback stabilization of bipedal locomotion based on reference spreading"* (co-authored by G. Lunardi, A. Del Prete and L. Zaccarian) was published in *IFAC Automatica*.
+* **12/12/2024**: The paper *"Integrate-and-reset feedback and feedforward for a solenoid with unknown parameters"* (co-authored by M. Schwegel, A. Kugi and L. Zaccarian) was published in the *IEEE Control Systems Letters (L-CSS)* and I presented it at the *2024 IEEE Conference on Decision and Control (CDC)* in *Milano (Italy)*.
+* **04/07/2024**: I presented the paper *"Incremental stability of discrete-time first-order projection elements"* (co-authored by S.J.A.M. van den Eijnden and W.P.M.H. Heemels) to the *2024 IFAC Analysis and Design of Hybrid Systems (ADHS)* conference in *Boulder, Colorado (USA)*.
+* **17/03/2023**: I defended my thesis titled *"Hybrid solutions for mechatronics: applications to modeling and controller design"*, and obtained the PhD cum laude in *Materials, Mechatronics and Systems Engineering* from the *University of Trento (Italy)*.
+* **01/02/2023**: I joined the *PROACTHIS* group at the *Control Systems Technology* group of *TU Eindhoven (The Netherlands)*, under the supervision of W.P.M.H. (Maurice) Heemels, to investigate the use of projected dynamical systems in control theory.
+
+# Selected awards
+
+* **Best italian PhD thesis in Control Theory 2023**, awarded by SIDRA *(Società Italiana Docenti e Ricercatori in Automatica - Italian Society of Teachers and Researchers in Automatic Control)*.
+* **Best PhD graduate in 2023**, awarded by the *Department of Industrial Engineering of the University of Trento (Italy)*.
+
+<!--
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
@@ -56,3 +75,5 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+-->
