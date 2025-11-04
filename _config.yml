@@ -222,7 +222,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  supervision:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -257,14 +257,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _talks
+  # _supervision
   - scope:
       path: ""
-      type: talks
+      type: supervision
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
+      comments: true
 
 
 # Sass/SCSS

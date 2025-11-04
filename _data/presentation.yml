@@ -1,0 +1,60 @@
+# List in Software page
+# If there are no entries, this section is not displayed
+
+# Mandatory:
+# - title
+# - authors
+# - year
+# - description
+# - url (main reference: github repo, external site, paper, etc...)
+
+# Optional:
+# - img (filename of image in /images/software)
+# - license ('_' -> ' '; '--' -> '-')
+# - license_url (must be provided if license is provided)
+# - language
+# - github
+# - video
+# - pdf
+
+- title: "Stability analysis of nonsmooth systems for control"
+  description: Invited talk at Université Catholique de Louvain
+  year: January 2025
+  img: UCL.webp
+  url: ../assets/pdf/Louvain-presentation.pdf
+  pdf: ../assets/pdf/Louvain-presentation.pdf
+
+- title: "Integrate-and-reset feedback and feedforward for a solenoid with unknown parameters"
+  description: IEEE Conference on Decision and Control
+  year: December 2024
+  img: CDC24.png
+  url: ../assets/pdf/CDC24-presentation.pdf
+  pdf: ../assets/pdf/CDC24-presentation.pdf
+
+- title: "Incremental Stability of Discrete-Time First-Order Projection Elements"
+  description: IFAC Conference on Analysis and Design of Hybrid Systems
+  year: July 2024
+  img: ADHS24.png
+  url: ../assets/pdf/ADHS24-presentation.pdf
+  pdf: ../assets/pdf/ADHS24-presentation.pdf
+
+- title: "Distributed hybrid observer with prescribed convergence rate for a linear plant using multi-hop decomposition"
+  description: IEEE Conference on Decision and Control
+  year: December 2022
+  img: CDC22.png
+  url: ../assets/pdf/CDC22-presentation.pdf
+  pdf: ../assets/pdf/CDC22-presentation.pdf
+
+- title: "Reset-control-based current tracking for a solenoid with unknown parameters"
+  description: IFAC Conference on Analysis and Design of Hybrid Systems
+  year: July 2021
+  img: ADHS21.png
+  url: ../assets/pdf/ADHS21-presentation.pdf
+  pdf: ../assets/pdf/ADHS21-presentation.pdf
+
+- title: "Uniform global asymptotic synchronization of Kuramoto oscillators via hybrid coupling"
+  description: IFAC World Congress
+  year: July 2020
+  img: IFAC20.png
+  url: ../assets/pdf/Kuramoto-presentation.pdf
+  pdf: ../assets/pdf/Kuramoto-presentation.pdf

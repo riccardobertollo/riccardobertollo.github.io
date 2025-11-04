@@ -9,17 +9,19 @@ redirect_from:
 
 # About me
 
-Hi, I am Riccardo, from [Pianezze](https://maps.google.com), Italy!
+<!--
+Hi, I am Riccardo, from [Pianezze](https://maps.app.goo.gl/cqDjgGiXRbRdN22J7), Italy!
+-->
 I am a **postdoc researcher** in the *Control Systems Technology* section at **Eindhoven University of Technology** (The Netherlands).
 I am interested in **hybrid and nonsmooth dynamical systems**, their application to the modeling and control of mechatronic systems, and the use of Lyapunov techniques to analyze this type of systems.
 
 # News
 
-* **01/04/2025**: The paper *"Hybrid Lyapunov-based feedback stabilization of bipedal locomotion based on reference spreading"* (co-authored by G. Lunardi, A. Del Prete and L. Zaccarian) was published in *IFAC Automatica*.
-* **12/12/2024**: The paper *"Integrate-and-reset feedback and feedforward for a solenoid with unknown parameters"* (co-authored by M. Schwegel, A. Kugi and L. Zaccarian) was published in the *IEEE Control Systems Letters (L-CSS)* and I presented it at the *2024 IEEE Conference on Decision and Control (CDC)* in *Milano (Italy)*.
-* **04/07/2024**: I presented the paper *"Incremental stability of discrete-time first-order projection elements"* (co-authored by S.J.A.M. van den Eijnden and W.P.M.H. Heemels) to the *2024 IFAC Analysis and Design of Hybrid Systems (ADHS)* conference in *Boulder, Colorado (USA)*.
-* **17/03/2023**: I defended my thesis titled *"Hybrid solutions for mechatronics: applications to modeling and controller design"*, and obtained the PhD cum laude in *Materials, Mechatronics and Systems Engineering* from the *University of Trento (Italy)*.
-* **01/02/2023**: I joined the *PROACTHIS* group at the *Control Systems Technology* group of *TU Eindhoven (The Netherlands)*, under the supervision of W.P.M.H. (Maurice) Heemels, to investigate the use of projected dynamical systems in control theory.
+* **Apr 2025** The paper *"Hybrid Lyapunov-based feedback stabilization of bipedal locomotion based on reference spreading"* (co-authored by G. Lunardi, A. Del Prete and L. Zaccarian) was published in *IFAC Automatica*.
+* **Dec 2024**: The paper *"Integrate-and-reset feedback and feedforward for a solenoid with unknown parameters"* (co-authored by M. Schwegel, A. Kugi and L. Zaccarian) was published in the *IEEE Control Systems Letters (L-CSS)* and I presented it at the *2024 IEEE Conference on Decision and Control (CDC)* in *Milano (Italy)*.
+* **Jul 2024**: I presented the paper *"Incremental stability of discrete-time first-order projection elements"* (co-authored by S.J.A.M. van den Eijnden and W.P.M.H. Heemels) to the *2024 IFAC Analysis and Design of Hybrid Systems (ADHS)* conference in *Boulder, Colorado (USA)*.
+* **Mar 2023**: I defended my thesis titled *"Hybrid solutions for mechatronics: applications to modeling and controller design"*, and obtained the PhD cum laude in *Materials, Mechatronics and Systems Engineering* from the *University of Trento (Italy)*.
+* **Feb 2023**: I joined the *PROACTHIS* group at the *Control Systems Technology* group of *TU Eindhoven (The Netherlands)*, under the supervision of W.P.M.H. (Maurice) Heemels, to investigate the use of projected dynamical systems in control theory.
 
 # Selected awards
 
