@@ -6,14 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- # About me -->
-=======
-<!--# 
+
+<!-- 
 # About me
->>>>>>> 296621efaa975dffbb3b98b91f70247b5d08ff34
 
 Hi, I am Riccardo, from [Pianezze](https://maps.app.goo.gl/cqDjgGiXRbRdN22J7), Italy!
 -->
+
 I am a **postdoc researcher** in the *Control Systems Technology* section at **Eindhoven University of Technology** (The Netherlands).
 I am interested in **hybrid and nonsmooth dynamical systems**, their application to the modeling and control of mechatronic systems, and the use of Lyapunov techniques to analyze this type of systems.
 
