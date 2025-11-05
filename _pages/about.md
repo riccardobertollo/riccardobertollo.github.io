@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# About me
+<!-- # About me -->
 
 <!--
 Hi, I am Riccardo, from [Pianezze](https://maps.app.goo.gl/cqDjgGiXRbRdN22J7), Italy!
