@@ -26,7 +26,7 @@ I am interested in **hybrid and nonsmooth dynamical systems**, their application
 
 # Selected awards
 
-* **Best italian PhD thesis in Control Theory 2023**, awarded by SIDRA *(Società Italiana Docenti e Ricercatori in Automatica - Italian Society of Teachers and Researchers in Automatic Control)*.
+* **Best Italian PhD thesis in Control Theory 2023**, awarded by SIDRA *(Società Italiana Docenti e Ricercatori in Automatica - Italian Society of Teachers and Researchers in Automatic Control)*.
 * **Best PhD graduate in 2023**, awarded by the *Department of Industrial Engineering of the University of Trento (Italy)*.
 
 <!--
