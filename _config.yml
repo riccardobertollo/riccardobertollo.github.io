@@ -25,11 +25,11 @@ author:
   avatar           : "profile.jpg"
   name             : "Riccardo Bertollo"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoc researcher @ Eindhoven University of Technology"
-  location         : "Eindhoven, The Netherlands"
+  bio              : "Postdoc researcher @ Université Catholique de Louvain"
+  location         : "Louvain-la-Neuve, Belgium"
   employer         : #""
   uri              : # URL
-  email            : "r.bertollo[at]tue[dot]nl" 
+  email            : "riccardo.bertollo[at]uclouvain[dot]be" 
 
   # Academic websites
   academia         : # URL
