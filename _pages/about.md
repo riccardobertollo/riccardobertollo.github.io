@@ -18,11 +18,13 @@ I am interested in **hybrid and nonsmooth dynamical systems**, their application
 
 # News
 
-* **Apr 2025** The paper *"Hybrid Lyapunov-based feedback stabilization of bipedal locomotion based on reference spreading"* (co-authored by G. Lunardi, A. Del Prete and L. Zaccarian) was published in *IFAC Automatica*.
+* **Feb 2026**: I joined [Raphaël Jungers'](https://perso.uclouvain.be/raphael.jungers/content/home) group in the *Mathematical Engineering department (INMA)* of *Université Catholique de Louvain (Belgium)* as a postdoc researcher.
+* **Nov 2025**: I visited the control systems group at *CRAN - Université de Lorraine (Nancy, France)*, for a research collaboration with [Pietro Lorenzetti](https://scholar.google.com/citations?user=4wjFKNsAAAAJ&hl=it).
+* **Apr 2025**: The paper *"Hybrid Lyapunov-based feedback stabilization of bipedal locomotion based on reference spreading"* (co-authored by G. Lunardi, A. Del Prete and L. Zaccarian) was published in *IFAC Automatica*.
 * **Dec 2024**: The paper *"Integrate-and-reset feedback and feedforward for a solenoid with unknown parameters"* (co-authored by M. Schwegel, A. Kugi and L. Zaccarian) was published in the *IEEE Control Systems Letters (L-CSS)* and I presented it at the *2024 IEEE Conference on Decision and Control (CDC)* in *Milano (Italy)*.
 * **Jul 2024**: I presented the paper *"Incremental stability of discrete-time first-order projection elements"* (co-authored by S.J.A.M. van den Eijnden and W.P.M.H. Heemels) to the *2024 IFAC Analysis and Design of Hybrid Systems (ADHS)* conference in *Boulder, Colorado (USA)*.
-* **Mar 2023**: I defended my thesis titled *"Hybrid solutions for mechatronics: applications to modeling and controller design"*, and obtained the PhD cum laude in *Materials, Mechatronics and Systems Engineering* from the *University of Trento (Italy)*.
-* **Feb 2023**: I joined the *PROACTHIS* group at the *Control Systems Technology* group of *TU Eindhoven (The Netherlands)*, under the supervision of W.P.M.H. (Maurice) Heemels, to investigate the use of projected dynamical systems in control theory.
+<!-- * **Mar 2023**: I defended my thesis titled *"Hybrid solutions for mechatronics: applications to modeling and controller design"*, and obtained the PhD cum laude in *Materials, Mechatronics and Systems Engineering* from the *University of Trento (Italy)*.
+* **Feb 2023**: I joined the *PROACTHIS* group at the *Control Systems Technology* group of *TU Eindhoven (The Netherlands)*, under the supervision of W.P.M.H. (Maurice) Heemels, to investigate the use of projected dynamical systems in control theory. -->
 
 # Selected awards
 
